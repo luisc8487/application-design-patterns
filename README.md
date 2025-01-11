@@ -1,4 +1,4 @@
-# application-design-patterns | Movie Fight Web Application
+# Movie Fight Web Application [application-design-patterns]
 
 ## Project Overview
 This project is a Movie Fight Web Application that allows users to compare two movies side by side using key statistics such as box office earnings, number of awards, metascore, IMDb rating, and IMDb votes. The goal is to visually highlight which movie ranks higher in each category by using color-coordinat
