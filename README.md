@@ -32,5 +32,6 @@ This project is a Movie Fight Web Application that allows users to compare two m
 ### How It Works
 
 1.  Search Functionality:
-    - Users enter the names of two movies in separate input fields.
-    - The app fetches data for both movies using the OMDb API.
+
+- Users enter the names of two movies in separate input fields.
+- The app fetches data for both movies using the OMDb API.
