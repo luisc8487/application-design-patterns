@@ -2,6 +2,7 @@
 
 ## Project Overview
 
+![movie-search](https://github.com/user-attachments/assets/8d95cb75-040a-497e-979c-36a240b03968)![movie-fight](https://github.com/user-attachments/assets/afe57851-a9bf-4618-9ff4-5c77e3c675f1)
 
 This project is a Movie Fight Web Application that allows users to compare two movies side by side using key statistics such as box office earnings, number of awards, metascore, IMDb rating, and IMDb votes. The goal is to visually highlight which movie ranks higher in each category by using color-coordinat
 
