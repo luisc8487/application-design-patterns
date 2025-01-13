@@ -13,5 +13,19 @@ This project is a Movie Fight Web Application that allows users to compare two m
         - **Metascore**
         - **IMDb Rating**
         - **IMDb Votes**
-        
+
 - **Visual Indicators**
+    - Each stat is color-coordinated based on which movie ranks higher.
+    - Clear visual cues make it easy for users to determine the better-performing movie.
+
+### Technologies Used
+    - **HTML:** Structure of the web application.
+    - **CSS:** Styling and layout of the application.
+    - **JavaScript:** Core functionality and DOM manipulation.
+    - **Axios:** For making HTTP request to the OMDb API.
+    - **Async/await:** Handling asynchronous operations for fetching movie data.
+
+### How It Works
+ 1. Search Functionality:
+    - Users enter the names of two movies in separate input fields.
+    - The app fetches data for both movies using the OMDb API.
