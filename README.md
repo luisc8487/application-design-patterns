@@ -22,12 +22,13 @@ This project is a Movie Fight Web Application that allows users to compare two m
   - Clear visual cues make it easy for users to determine the better-performing movie.
 
 ### Technologies Used
-
+**
     **HTML:** Structure of the web application.
     **CSS:** Styling and layout of the application.
     **JavaScript:** Core functionality and DOM manipulation.
     **Axios:** For making HTTP request to the OMDb API.
     **Async/await:** Handling asynchronous operations for fetching movie data.
+**
 
 ### How It Works
 
