@@ -31,19 +31,20 @@ This project is a Movie Fight Web Application that allows users to compare two m
 
 ### How It Works
 
-1.Search Functionality:
-    - Users enter the names of two movies in separate input fields.
-    - The app fetches data for both movies using the OMDb API.
-2.Data Extraction:
-    - Relevant data points such as box office revenue, awards, metascore, IMDb rating, and IMDb votes are extracted.
-3.Comparison Logic:
-    - The app compares the stats of both movies.
-    - Based on the comparsion, stats, are highlighted with different colors to indicate which movie performed better.
-4.User Interface:
-    - A clean and intuitive interface displays the results side by side.
-    - Color coding provides quick visual feedback on the comparison outcome.
+1. Search Functionality:
+   - Users enter the names of two movies in separate input fields.
+   - The app fetches data for both movies using the OMDb API.
+2. Data Extraction:
+   - Relevant data points such as box office revenue, awards, metascore, IMDb rating, and IMDb votes are extracted.
+3. Comparison Logic:
+   - The app compares the stats of both movies.
+   - Based on the comparsion, stats, are highlighted with different colors to indicate which movie performed better.
+4. User Interface:
+   - A clean and intuitive interface displays the results side by side.
+   - Color coding provides quick visual feedback on the comparison outcome.
 
 ### How to Run the Project
+
 1. Clone the repository.
 2. Open the `index.html` file in your preferred browser.
 3. Enter the names of two movies in the input fields.
