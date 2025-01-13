@@ -13,4 +13,5 @@ This project is a Movie Fight Web Application that allows users to compare two m
         - **Metascore**
         - **IMDb Rating**
         - **IMDb Votes**
+        
 - **Visual Indicators**
