@@ -44,6 +44,6 @@ This project is a Movie Fight Web Application that allows users to compare two m
     - Color coding provides quick visual feedback on the comparison outcome.
 
 ### How to Run the Project
-1.Clone the repository.
-2.Open the `index.html` file in your preferred browser.
-3.Enter the names of two movies in the input fields.
+1. Clone the repository.
+2. Open the `index.html` file in your preferred browser.
+3. Enter the names of two movies in the input fields.
