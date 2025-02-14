@@ -50,3 +50,16 @@ This project is a Movie Fight Web Application that allows users to compare two m
 1. Clone the repository.
 2. Open the `index.html` file in your preferred browser.
 3. Enter the names of two movies in the input fields.
+
+## Testing
+A `test/` folder been added to validate dropdown functionality using JavaScript and MochaJS. The test ensures: 
+- The dropdown menu in the input text field **starts closed**.
+- After searching, the dropdown **opens**.
+- After searching, the dropdown **displays results**.
+
+### Running Tests
+To run the tests, first install Mocha globally:
+```sh
+npm install -g mocha
+```
+Preview the `index.html` file within the `test` folder.
