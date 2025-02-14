@@ -58,6 +58,8 @@ A `test/` folder been added to validate dropdown functionality using JavaScript 
 - After searching, the dropdown **displays results**.
 
 ### Running Tests
+![testdropdown](testdropdown.png)
+
 To run the tests, first install Mocha globally:
 ```sh
 npm install -g mocha
