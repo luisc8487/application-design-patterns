@@ -63,3 +63,18 @@ To run the tests, first install Mocha globally:
 npm install -g mocha
 ```
 Preview the `index.html` file within the `test` folder.
+
+## Project File Structure
+```lua
+application-design-patterns/
+|-- test/
+|    |-- autocomplete.test.js
+|    |-- test.html
+|-- autocomplete.js
+|-- index.html
+|-- index.js
+|-- LICENSE
+|-- README.md
+|-- style.css
+|-- utils.js
+```
